@@ -1,3 +1,1 @@
-{
-  "users": "troplaflemmewlh07;test;dannybro339"
-}
+troplaflemmewlh07;test;dannybro339
